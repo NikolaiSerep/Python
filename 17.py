@@ -3,4 +3,10 @@ def root(numder, power):
     return result
 x = int(input ())
 n = int(input ())
+
+def name(x):
+
+    return x*x
 print(root (x,n))
+
+print(name(x))
